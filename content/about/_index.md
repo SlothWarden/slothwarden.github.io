@@ -1,6 +1,0 @@
----
-title: "About me"
----
-![My avatar](https://slothwarden.github.io/repo-for-resources/me.png)
-This is my Minecraft avatar, I am a true Minecraft fan and I loooove star wars!  I also love coding, Which I have been doing for almost 2 years, it has always been quite fulfilling. 
-I like games like Roblox, Fortnite, and Battlefront 2, my favorite color is turqoise.
